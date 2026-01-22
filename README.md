@@ -1,25 +1,36 @@
-<!---
-mariajosesalasmiranda/mariajosesalasmiranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Maria Jose! 
 
-## 👋 Welcome to my profile
-Hey there, I'm @mariajosesalasmiranda! Let me give you a glimpse into who I am: 
+I’m an AI enthusiast who took an unconventional path: starting in **Law** before falling in love with the world of **Artificial Intelligence**. I recently wrapped up my Master’s with honors (**110/110 cum laude**), and I’m now diving deep into the ML lifecycle as a Trainee.
 
-- 🎓 **Master's Graduate in Artificial Intelligence (AI)** \
-I recently completed my master's degree in AI at IULM University in Italy, where I focused on courses like Machine Learning, Deep Learning, AI, and Data Mining to build a strong foundation in this exciting field.
+---
 
-- 💻 **Former Data Scientist Intern at ASML** \
-During my time at ASML, a global technology leader in advanced lithography systems for the semiconductor industry, I developed a data-driven model that improved product quality by identifying patterns and trends in historical production data, helping the company make more informed decisions.
+### 🛠️ What I'm working with lately
+*I'm currently a **Jr. Data Scientist Trainee at Heroes B.V.**, where I'm getting my hands dirty with:*
+* **Cloud & MLOps:** Building and deploying models using **Azure, Databricks, and MLflow**.
+* **Building Solutions:** Writing **Python** to solve real-world problems and creating scalable data pipelines.
+* **Computer Vision:** Experimenting with **OpenCV** and **TensorFlow** to see what's possible.
+  
+---
 
-- 🔍 **Open to New Opportunities** \
-I'm currently seeking roles that leverage my AI expertise and experience. If you're looking for someone passionate about implementing AI solutions to solve real-world problems, [let's connect](https://www.linkedin.com/in/maria-jose-salas-miranda/)! 
+### 🧪 My "Learning Lab" projects
+*I use these projects to test out new tools and document my growth:*
+* **[Emotion Vision](https://github.com/nuna-bit/Emotion-Vision):** A real-time recognition system I built using a CNN and OpenCV.
+* **[Azure Language Assistant](https://github.com/nuna-bit/azure-speech-language-assistant):** Exploring **Azure AI Foundry** for speech and translation.
+* **[CNN_CIFAR10](https://github.com/nuna-bit/CNN_CIFAR10):** A foundational project focusing on image classification and model optimization.
 
-- 🌍 **Global Mindset** \
-My Erasmus experience and international internship have given me a deep appreciation for diverse cultural settings. I thrive in multicultural environments and enjoy bringing different perspectives to the table.
+*...and several others! You can find my full collection of experiments in my [Repositories](https://github.com/nuna-bit?tab=repositories) tab.*
 
-- **🧠 Curious Problem Solver** \
-I approach challenges with creativity and persistence, always looking for innovative solutions. My interdisciplinary thinking helps me see connections others might miss and tackle problems from unique angles.
+---
 
-__**Looking forward to connecting with you!**__
+### 🏆 A few things I'm proud of
+* **Academic Journey:** Earning my Master's in **AI for Business and Society** with top honors.
+* **Talent Challenge:** Winning the **IULM Talent Challenge (2024)** for AI applications for inclusion.
+* **Real Impact:** Developing a predictive model at **ASML** that helped identify quality trends and save costs.
+* **Community:** Participating in the **GDSC AI Hackathon** to collaborate with other builders.
 
+---
+
+### 📫 Let's chat!
+I'm always happy to connect with other AI enthusiasts or people interested in the intersection of tech and society.
+* **LinkedIn:** [in/mj-salas](https://www.linkedin.com/in/mj-salas)
+* **Portfolio:** [Check out my full project list here!](https://nuna-bit.github.io/studio/) 
