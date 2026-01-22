@@ -13,4 +13,4 @@ I’m an AI enthusiast who took an unconventional path: starting in **Law** befo
 ---
 
 ### 📫 Let's Connect!
-[**LinkedIn**](https://www.linkedin.com/in/mj-salas) | [**Portfolio**](https://nuna-bit.github.io/studio/) | Always open to chat about Tech & Society.
+[**LinkedIn**](https://www.linkedin.com/in/mj-salas) | [**Portfolio**](https://nuna-bit.github.io/studio/about) | Always open to chat about Tech & Society.
