@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Maria Jose! 
 
-I’m an AI enthusiast who took an unconventional path: starting in **Law** before falling in love with the world of **Artificial Intelligence**. I recently wrapped up my Master’s with honors (**110/110 cum laude**), and I’m now diving deep into the ML lifecycle as a Trainee.
+I’m an AI enthusiast who took an unconventional path: starting in law before falling in love with the world of artificial intelligence. I recently wrapped up my master’s with honors (110/110 cum laude), and I’m now diving deep into the ML lifecycle as a trainee.
 
 ---
 
 ### 🛠️ What I'm working with lately
-*I'm currently a **Jr. Data Scientist Trainee at Heroes B.V.**, where I'm getting my hands dirty with:*
+*I'm currently a **Data Scientist Trainee at Heroes B.V.**, where I'm getting my hands dirty with:*
 * **Cloud & MLOps:** Building and deploying models using **Azure, Databricks, and MLflow**.
 * **Building Solutions:** Writing **Python** to solve real-world problems and creating scalable data pipelines.
 * **Computer Vision:** Experimenting with **OpenCV** and **TensorFlow** to see what's possible.
